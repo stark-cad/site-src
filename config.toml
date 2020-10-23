@@ -1,0 +1,9 @@
+baseURL = "https://stark-cad.github.io/"
+languageCode = "en-us"
+title = "STARK"
+
+[markup.highlight]
+  style = "emacs"
+
+[markup.goldmark.renderer]
+  unsafe = true

@@ -1,0 +1,4 @@
+#+HUGO_SECTION: ./
+#+HUGO_BASE_DIR: ../
+
+#+STARTUP: overview
