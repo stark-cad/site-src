@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/stark-cad/stark-cad.github.io.git
