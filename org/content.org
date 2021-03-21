@@ -3,6 +3,13 @@
 
 #+STARTUP: overview
 
+* Home
+:PROPERTIES:
+:EXPORT_FILE_NAME: _index
+:END:
+
+Welcome!
+
 * YC Demo
 :PROPERTIES:
 :EXPORT_FILE_NAME: early-demo

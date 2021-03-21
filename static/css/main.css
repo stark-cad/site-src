@@ -1,3 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: Tahoma, Geneva, sans-serif;
+}
+nav {
+    background-color: #1A2D84;
+    overflow: hidden;
+}
+nav ul {
+    list-style: none;
+    overflow: hidden;
+    margin: 0;
+}
+nav ul li {
+    display: inline;
+    float: left;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    font-size: 2rem;
+    line-height: 0;
+    margin: 0;
+    font-family: Verdana, Geneva, sans-serif;
+    font-weight: lighter;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+nav ul li a {
+    display: block;
+    color: white;
+    padding: 36px 20px;
+    text-decoration: none;
+}
+nav ul li a:hover {
+    background-color: #48579D;
+}
+nav img {
+    margin: 10px 5px;
+}
+
+.container {
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 2rem;
+}
+
 html {
     position: relative;
     min-height: 100%;
@@ -9,9 +58,44 @@ html {
     margin-right: auto;
 }
 #home p {
-    font-family: Tahome, Geneva, sans-serif;
+    font-family: Tahoma, Geneva, sans-serif;
     text-align: center;
-    font-size: 4rem;
+    font-size: 3vw;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Tahoma, Geneva, sans-serif;
+    color: #000;
+    margin-bottom: 1rem;
+}
+h1 {
+    font-size: 3rem;
+    margin-bottom: 0;
+}
+h2 {
+    font-size: 2rem;
+    margin-top: 2rem;
+}
+h3 {
+    font-size: 1.5rem;
+    margin-top: 1.5rem;
+}
+h4 {
+    font-size: 1.2rem;
+    margin-top: 1.2rem;
+}
+h5 {
+    font-size: 1.1rem;
+    font-style: italic;
+}
+h6 {
+    font-size: 0.9rem;
+}
+p {
+    font-size: 1.1rem;
+    line-height: 1.7rem;
+    color: #111;
+    margin: 1rem 0rem;
 }
 
 footer {
@@ -19,5 +103,6 @@ footer {
     bottom: 0;
 }
 footer p {
-    padding-left: 0.5rem;
+    padding: 0.8rem;
+    margin: 0;
 }
