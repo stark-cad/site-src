@@ -46,6 +46,9 @@ nav img {
     margin: 0 auto;
     margin-top: 2rem;
 }
+.container img {
+    width: 100%;
+}
 
 html {
     position: relative;
@@ -61,6 +64,21 @@ html {
     font-family: Tahoma, Geneva, sans-serif;
     text-align: center;
     font-size: 3vw;
+}
+
+
+div.toc {margin: 2rem 0rem 2rem;}
+h1 + div.toc {margin-top: 1rem;}
+div.toc div.heading {display: none;}
+
+li {
+    font-size: 1.1rem;
+    line-height: 1.6rem;
+    color: #111
+}
+ul {
+    list-style-position: outside;
+    margin-left: 2rem;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -99,10 +117,9 @@ p {
 }
 
 footer {
-    position: absolute;
-    bottom: 0;
+    position: static;
 }
 footer p {
-    padding: 0.8rem;
+    padding: 1rem;
     margin: 0;
 }

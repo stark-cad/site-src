@@ -15,4 +15,17 @@ Welcome!
 :EXPORT_FILE_NAME: early-demo
 :END:
 
-Demo forthcoming...
+#+TOC: headlines 2
+
+Further updates forthcoming...
+
+** Demo 1
+*** Demo Video
+Shows Sail interpreter, basic graphics, and how they connect
+
+{{< youtube TZ1qEuuWx8w >}}
+
+*** Interface Sketch
+Concepts for 2D workspace editing, 3D part editing, and text editing
+
+[[file:/img/interface-sketch.png]]
