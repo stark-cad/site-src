@@ -19,6 +19,15 @@ Welcome!
 
 Further updates forthcoming...
 
+** Demo 2
+[04-23] Video coming shortly
+
+*** Screenshot
+Demonstrates arbitrary line drawing by the user, in this case to
+display an impossible triangle
+
+[[file:/img/impossible.png]]
+
 ** Demo 1
 *** Demo Video
 Shows Sail interpreter, basic graphics, and how they connect

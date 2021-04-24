@@ -9,6 +9,8 @@ draft = false
 
 <div class="heading">Table of Contents</div>
 
+- [Demo 2](#demo-2)
+    - [Screenshot](#screenshot)
 - [Demo 1](#demo-1)
     - [Demo Video](#demo-video)
     - [Interface Sketch](#interface-sketch)
@@ -17,6 +19,19 @@ draft = false
 <!--endtoc-->
 
 Further updates forthcoming...
+
+
+## Demo 2 {#demo-2}
+
+[04-23] Video coming shortly
+
+
+### Screenshot {#screenshot}
+
+Demonstrates arbitrary line drawing by the user, in this case to
+display an impossible triangle
+
+{{< figure src="/img/impossible.png" >}}
 
 
 ## Demo 1 {#demo-1}
