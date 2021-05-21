@@ -1,5 +1,5 @@
 +++
-title = "YC Demo"
+title = "Demo"
 author = ["Matthew Rothlisberger"]
 draft = false
 +++
@@ -10,6 +10,7 @@ draft = false
 <div class="heading">Table of Contents</div>
 
 - [Demo 2](#demo-2)
+    - [Demo Video](#demo-video)
     - [Screenshot](#screenshot)
 - [Demo 1](#demo-1)
     - [Demo Video](#demo-video)
@@ -23,12 +24,18 @@ Further updates forthcoming...
 
 ## Demo 2 {#demo-2}
 
-[04-23] Video coming shortly
+
+### Demo Video {#demo-video}
+
+Demonstrates graphics, a REPL, and keyboard controlled drawing /
+diagramming
+
+{{< youtube GofOnNNpY8M >}}
 
 
 ### Screenshot {#screenshot}
 
-Demonstrates arbitrary line drawing by the user, in this case to
+Example of arbitrary line drawing by the user, in this case to
 display an impossible triangle
 
 {{< figure src="/img/impossible.png" >}}

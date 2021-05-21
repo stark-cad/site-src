@@ -10,7 +10,7 @@
 
 Welcome!
 
-* YC Demo
+* Demo
 :PROPERTIES:
 :EXPORT_FILE_NAME: early-demo
 :END:
@@ -20,10 +20,14 @@ Welcome!
 Further updates forthcoming...
 
 ** Demo 2
-[04-23] Video coming shortly
+*** Demo Video
+Demonstrates graphics, a REPL, and keyboard controlled drawing /
+diagramming
+
+{{< youtube GofOnNNpY8M >}}
 
 *** Screenshot
-Demonstrates arbitrary line drawing by the user, in this case to
+Example of arbitrary line drawing by the user, in this case to
 display an impossible triangle
 
 [[file:/img/impossible.png]]
