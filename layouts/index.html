@@ -1,10 +1,14 @@
 {{ define "main" }}
 
 <div id="home">
-  <img src="/img/logo.png" alt="STARK logo" width="80%">
+  <img src="/img/logo.png" alt="STARK logo">
   <p>Computer Augmented Design</p>
 </div>
 
-{{ .Content }}
+<hr>
+
+<div id="idx-ct">
+  {{ .Content }}
+</div>
 
 {{ end }}

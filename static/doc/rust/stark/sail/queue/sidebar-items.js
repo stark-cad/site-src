@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["queue_create","Creates a queue sender and receiver as a linked pair"],["queue_rx","Receives and returns the object at the head of the queue"],["queue_tx","Transmits a copy of the given Sail object along the queue"]]});

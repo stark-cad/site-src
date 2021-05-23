@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["render_loop","Sail interpreter loop for the render thread (holds graphics state)"]],"struct":[["Engine","Sail-specific graphics engine state"],["GraphicsState","Stores all persistent `gfx-hal` (Vulkan) objects"]]});

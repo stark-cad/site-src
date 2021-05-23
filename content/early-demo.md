@@ -19,6 +19,8 @@ draft = false
 </div>
 <!--endtoc-->
 
+Source code available at <https://github.com/stark-cad/stark>
+
 Further updates forthcoming...
 
 
