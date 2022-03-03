@@ -2,9 +2,19 @@
 <html>
   <head>
     <title>{{ .Title }} | {{ .Site.Title }}</title>
+
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="/css/main.css">
     <link rel="shortcut icon" href="/img/inv_icon.ico">
+
+    <meta prefix="og: http://ogp.me/ns#" property="og:type" content="website" />
+    <meta prefix="og: http://ogp.me/ns#" property="og:title" content="STARK" />
+    <meta prefix="og: http://ogp.me/ns#" property="og:description"
+          content="The engineer's CAD suite." />
+    <meta prefix="og: http://ogp.me/ns#" property="og:image"
+          content="https://stark-cad.github.io/img/preview.png" />
+    <meta prefix="og: http://ogp.me/ns#" property="og:url"
+          content="https://stark-cad.github.io" />
   </head>
   <body>
     <nav>
@@ -12,7 +22,10 @@
         <li><img src="/img/logo_white.png" height="50"/></li>
         <li><a href="/">Home</a></li>
         <li><a href="/doc">Docs</a></li>
-        <li><a href="/early-demo">Demo</a></li>
+        <li><a href="/demo">Demo</a></li>
+        <li><a href="/devlog">Devlog</a></li>
+        <li><a href="https://github.com/stark-cad/stark"
+               target="_blank" rel="noopener noreferrer">Source</a></li>
       </ul>
     </nav>
     <div class="container">

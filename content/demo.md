@@ -5,7 +5,6 @@ draft = false
 +++
 
 <div class="ox-hugo-toc toc">
-<div></div>
 
 <div class="heading">Table of Contents</div>
 
@@ -32,13 +31,13 @@ Further updates forthcoming...
 Demonstrates graphics, a REPL, and keyboard controlled drawing /
 diagramming
 
-{{< youtube GofOnNNpY8M >}}
+{{&lt; youtube id="GofOnNNpY8M" title="Demo 2" &gt;}}
 
 
 ### Screenshot {#screenshot}
 
 Example of arbitrary line drawing by the user, in this case to
-display an impossible triangle
+display a Penrose triangle
 
 {{< figure src="/img/impossible.png" >}}
 
@@ -50,7 +49,7 @@ display an impossible triangle
 
 Shows Sail interpreter, basic graphics, and how they connect
 
-{{< youtube TZ1qEuuWx8w >}}
+{{&lt; youtube id="TZ1qEuuWx8w" title="Demo 1" &gt;}}
 
 
 ### Interface Sketch {#interface-sketch}

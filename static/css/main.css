@@ -20,7 +20,7 @@ nav ul li {
     position: relative;
     text-align: center;
     text-decoration: none;
-    font-size: 2rem;
+    font-size: 2vw;
     line-height: 0;
     margin: 0;
     font-family: Verdana, Geneva, sans-serif;
@@ -31,7 +31,7 @@ nav ul li {
 nav ul li a {
     display: block;
     color: white;
-    padding: 36px 20px;
+    padding: 36px 1vw;
     text-decoration: none;
 }
 nav ul li a:hover {
